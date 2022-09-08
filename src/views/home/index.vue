@@ -68,7 +68,7 @@ import Color from "../../components/Color.vue";
 export default {
   data() {
     return {
-      number: "00,045,225",
+      number: "00,045,625",
       isshow: false,
       isshows: false,
     };
