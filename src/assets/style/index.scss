@@ -1,0 +1,16 @@
+#index {
+  color: #d3d6dd;
+  width: 100%;
+  background-color: #000000;
+  height: 100%;
+
+  .bg {
+    background-image: url(../../assets//image/BG.jpg);
+     padding: 50px;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+  }
+}
+/* 约束屏幕尺寸 */
+
